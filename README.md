@@ -1,2 +1,29 @@
-# a3f84a7a-astrology-divination-form-au
-Professional astrology browser extension — without the professional price tag.  Works directly in Chrome, Edge, and Brave — no switching apps required. Privacy-first: all processing stays local, no data sent to third-party servers.  ## What's Included  - Astrology &amp; Divination Form Auto-Filler And Data Entry Accelerator — fully configured and ready
+# Astrology & Divination Form Auto-Filler and Data Entry Accelerator Chrome Extension
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14A6oH12Df6Q3lm6fycZr2g)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14A6oH12Df6Q3lm6fycZr2g)
+- [Buy on Gumroad](https://aevornsell.gumroad.com/l/xgnkx)
+
